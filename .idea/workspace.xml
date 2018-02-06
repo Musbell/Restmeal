@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="bb53e62d-ba78-4eb8-ad97-e87441f61e02" name="Default" comment="" />
+    <list default="true" readonly="true" id="bb53e62d-ba78-4eb8-ad97-e87441f61e02" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/index2.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/lock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,56 +51,58 @@
     <option name="diffsInCommentsNonSignificant" value="false" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="17380" />
+    <option name="totalTimeSeconds" value="25796" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="VuetifyLogo.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/VuetifyLogo.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default2.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layouts/default2.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1246">
-              <caret line="89" column="1" selection-end-line="100" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.vue" pinned="false" current-in-tab="true">
+    <leaf>
+      <file leaf-file-name="default.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/default.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="123" column="67" selection-start-line="123" selection-start-column="67" selection-end-line="123" selection-end-column="67" />
+            <state relative-caret-position="112">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
               <folding>
-                <element signature="n#style#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-carousel-item#0;n#v-carousel#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#div#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#v-stepper-header#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#0;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#1;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#2;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#3;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="e#11844#11850#0" expanded="true" />
+                <element signature="n#style#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-carousel-item#0;n#v-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#v-stepper-header#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#0;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#1;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#2;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#3;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".eslintrc.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <file leaf-file-name="auth.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            <state relative-caret-position="453">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.sample.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.sample.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14">
+              <caret line="1" column="54" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -99,16 +112,32 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>id_token</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/nuxt.config.js" />
         <option value="$PROJECT_DIR$/.eslintrc.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/store/index.js" />
+        <option value="$PROJECT_DIR$/utils/auth.js" />
+        <option value="$PROJECT_DIR$/utils/lock.js" />
+        <option value="$PROJECT_DIR$/nuxt.config.js" />
         <option value="$PROJECT_DIR$/layouts/default.vue" />
+        <option value="$PROJECT_DIR$/pages/home.vue" />
+        <option value="$PROJECT_DIR$/config.sample.json" />
+        <option value="$PROJECT_DIR$/pages/index.vue" />
       </list>
     </option>
   </component>
@@ -137,34 +166,50 @@
     <option name="width" value="1317" />
     <option name="height" value="701" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="NBKnowledgePane" />
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="rest-meal" type="cbb8eebc:String" user="rest-meal" />
+              <item name="Restmeal" type="cbb8eebc:String" user="Restmeal" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="rest-meal" type="cbb8eebc:String" user="rest-meal" />
+              <item name="Restmeal" type="cbb8eebc:String" user="Restmeal" />
+              <item name="components" type="cbb8eebc:String" user="components" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Restmeal" type="cbb8eebc:String" user="Restmeal" />
               <item name="layouts" type="cbb8eebc:String" user="layouts" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Restmeal" type="cbb8eebc:String" user="Restmeal" />
+              <item name="pages" type="cbb8eebc:String" user="pages" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Restmeal" type="cbb8eebc:String" user="Restmeal" />
+              <item name="utils" type="cbb8eebc:String" user="utils" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="NBKnowledgePane" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../restMealPrisma" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
   </component>
   <component name="RemoteSynchronizer">
@@ -219,14 +264,15 @@
       <workItem from="1517862443032" duration="7595000" />
       <workItem from="1517910471830" duration="730000" />
       <workItem from="1517913530214" duration="440000" />
+      <workItem from="1517923208262" duration="11724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25075000" />
+    <option name="totallyTimeSpent" value="36799000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="-11" width="1331" height="780" extended-state="6" />
+    <frame x="36" y="-4" width="1331" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Weex Console" order="0" sideWeight="0.5330225" weight="0.13251156" />
@@ -248,14 +294,14 @@
       <window_info anchor="bottom" id="RemoteSynchronizer" order="6" show_stripe_button="false" weight="0.32973805" />
       <window_info anchor="bottom" id="GitLabIntegration" order="19" sideWeight="0.6985237" weight="0.32973805" />
       <window_info anchor="bottom" id="NativeScript" order="20" show_stripe_button="false" weight="0.32973805" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" sideWeight="0.49417248" weight="0.32973805" />
-      <window_info active="true" anchor="bottom" id="Run" order="28" sideWeight="0.35975137" side_tool="true" visible="true" weight="0.14285715" />
-      <window_info id="npm" order="9" sideWeight="0.25448027" side_tool="true" visible="true" weight="0.12509713" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49417248" weight="0.32973805" />
+      <window_info id="npm" order="9" sideWeight="0.25645438" side_tool="true" visible="true" weight="0.13053612" />
+      <window_info anchor="bottom" id="Run" order="28" sideWeight="0.36052835" side_tool="true" visible="true" weight="0.10752688" />
       <window_info anchor="bottom" id="Code Review" order="7" weight="0.32973805" />
       <window_info anchor="bottom" id="Quokka" order="8" show_stripe_button="false" weight="0.32973805" />
-      <window_info anchor="bottom" id="Terminal" order="23" sideWeight="0.64024866" visible="true" weight="0.14285715" />
+      <window_info anchor="bottom" id="Terminal" order="23" sideWeight="0.63947165" visible="true" weight="0.10752688" />
       <window_info anchor="right" id="Api Debugger" order="11" weight="0.32944834" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.7455197" visible="true" weight="0.12509713" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.7435456" visible="true" weight="0.13053612" />
       <window_info anchor="bottom" id="Reviews" order="9" />
       <window_info anchor="bottom" id="SonarLint" order="24" />
       <window_info anchor="bottom" id="CSS-X-Fire" order="25" sideWeight="0.4996115" weight="0.32973805" />
@@ -328,6 +374,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/layouts/default.vue">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="123" column="67" selection-start-line="123" selection-start-column="67" selection-end-line="123" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-carousel-item#0;n#v-carousel#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#v-stepper-header#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#0;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#1;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#2;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#3;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#11933#11939#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/VuetifyLogo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/default2.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1246">
+          <caret line="89" column="1" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/default.vue">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2366">
           <caret line="169" column="70" selection-start-line="169" selection-start-column="70" selection-end-line="169" selection-end-column="70" />
           <folding>
@@ -342,7 +430,7 @@
             <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#2;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#3;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#11844#11850#0" expanded="true" />
+            <element signature="e#11933#11939#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -384,7 +472,7 @@
             <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#2;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#3;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#11844#11850#0" expanded="true" />
+            <element signature="e#11933#11939#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -426,29 +514,8 @@
             <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#2;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#3;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#11844#11850#0" expanded="true" />
+            <element signature="e#11933#11939#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/VuetifyLogo.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nuxt.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="37" column="38" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -459,30 +526,161 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/default2.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1246">
+        <state relative-caret-position="237">
           <caret line="89" column="1" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/VuetifyLogo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/SuperSecretDiv.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/ForkThis.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-281" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/auth/sign-in.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/auth/signed-in.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/about.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/auth/sign-off.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#57#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/inspire.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nuxt.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/check-auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/authenticated.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/anonymous.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/secret.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Navbar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index2.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="e#773#806#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/lock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.sample.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" column="54" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/layouts/default.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="123" column="67" selection-start-line="123" selection-start-column="67" selection-end-line="123" selection-end-column="67" />
+        <state relative-caret-position="112">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
           <folding>
-            <element signature="n#style#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-carousel-item#0;n#v-carousel#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#v-stepper-header#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#0;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#1;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#2;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#3;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#11844#11850#0" expanded="true" />
+            <element signature="n#style#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-carousel-item#0;n#v-carousel#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#v-stepper-header#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#0;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#1;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#2;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#v-flex#0;n#v-layout#0;n#v-container#0;n#v-stepper-content#3;n#v-stepper-items#0;n#v-stepper#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

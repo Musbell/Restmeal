@@ -11,8 +11,15 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/webpackmonitor": "^0.1.0",
     "nuxt": "^1.0.0",
-    "vuetify": "^0.17.4"
+    "vuetify": "^0.17.4",
+    "auth0-lock": "10.15.1",
+    "js-cookie": "2.1.4",
+    "jwt-decode": "2.2.0",
+    "normalize.css": "^6.0.0",
+    "uuid": "3.0.1",
+    "vuex": "latest"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
@@ -25,6 +32,7 @@
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
     "stylus": "^0.54.5",
-    "stylus-loader": "^3.0.1"
+    "stylus-loader": "^3.0.1",
+    "webpack-monitor": "^1.0.14"
   }
 }

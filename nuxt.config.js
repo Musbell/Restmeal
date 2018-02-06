@@ -1,5 +1,11 @@
 
 module.exports = {
+    /*
+ ** Router config
+ */
+    router: {
+        middleware: 'check-auth'
+    },
   /*
   ** Headers of the page
   */
@@ -19,6 +25,10 @@ module.exports = {
   css: [
     '~/assets/style/app.styl'
   ],
+    env: {
+        AUTH0_CLIENT_ID: 'szeQ52dC8RKcX6Hgd5h3dkFCjEoFpMg7',
+        AUTH0_CLIENT_DOMAIN: 'musbell.auth0.com'
+    },
   /*
   ** Customize the progress bar color
   */
@@ -44,5 +54,8 @@ module.exports = {
         })
       }
     }
-  }
+  },
+    modules: [
+        '@nuxtjs/webpackmonitor',
+    ],
 }
